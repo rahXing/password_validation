@@ -4,7 +4,7 @@ A simple, interactive password validation application that provides real-time fe
 
 ## Live Demo
 
-🔗 **[View Live Demo]([https://your-username.github.io/password-validation/](https://passwordvalidationbatchno7855.netlify.app/))**
+🔗 **[View Live Demo]([https://your-username.github.io/password-validation/](https://passwordvalidationbatchno7855.netlify.app/])**
 
 ## Overview
 
